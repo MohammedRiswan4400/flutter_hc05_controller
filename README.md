@@ -13,5 +13,5 @@ A professional IoT mobile application built with Flutter to communicate with HC-
 * **Framework:** Flutter (Dart)
 * **Hardware:** Arduino UNO, HC-05 Bluetooth Module
 * **Communication:** RFCOMM / Serial Port Profile
-* **State Management:** GetX / Provider (Use whichever you used)
+* **State Management:** BLoC
 
